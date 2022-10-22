@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KrunalGupta02
+- 👋 Hi, I’m Krunal Gupta
 - 👀 I’m interested in Web Development and Blockchain Tech
 - 🌱 I’m currently JS
 - 💞️ I’m looking to collaborate on Projects and Community Work
