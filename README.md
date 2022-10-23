@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krunal Gupta
 - 👀 I’m interested in Web Development and Blockchain Tech
-- 🌱 I’m currently JS
+- 🌱 I’m currently learing JS
 - 💞️ I’m looking to collaborate on Projects and Community Work
 - 📫 If you want to talk with me contact me on guptakrunal02@gmail.com
 
