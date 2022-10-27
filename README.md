@@ -6,13 +6,14 @@
 
 
 # 💫 About Me:
-<!-- 🔭 I’m currently working on JS projects<br>👯 I’m looking to collaborate on Frontend Projects<br>🌱 I’m currently learning JS<br>💬 Ask me about anything related to Frontend<br> -->
 - 👋 Hi, I’m Krunal Gupta
 - 👀 I’m interested in Web Development and Blockchain Tech
 - 🌱 I’m currently learing JS
 - 💞️ I’m looking to collaborate on Projects and Community Work
 - 📫 If you want to talk with me contact me on guptakrunal02@gmail.com
 
+
+[![@krg's Holopin board](https://holopin.me/krg)](https://holopin.io/@krg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/krunal-gupta-9bb6a7206) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/KrunalKRG) 
@@ -33,7 +34,6 @@
 
 
 
-[![@krg's Holopin board](https://holopin.me/krg)](https://holopin.io/@krg)
 
 
 <!---
