@@ -11,6 +11,7 @@
 
 # 💫 About Me:
 <!-- - 👋 Hi, I’m Krunal Gupta -->
+- ⚒  Frontend Developer at Treeved.com
 - 👀 I’m interested in Web Development and Blockchain Tech
 - 🌱 I’m currently working on React JS Projects
 - 💞️ I’m looking to collaborate on Projects and Community Work
