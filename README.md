@@ -17,7 +17,6 @@
 - 💞️ I’m looking to collaborate on Projects and Community Work
 - 📫 If you want to talk with me contact me on guptakrunal02@gmail.com
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krunalgupta02" alt="krunalgupta02" /></a> </p>
 
 [![@krg's Holopin board](https://holopin.me/krg)](https://holopin.io/@krg)
 
