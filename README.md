@@ -11,7 +11,7 @@
 
 # 💫 About Me:
 <!-- - 👋 Hi, I’m Krunal Gupta -->
-- ⚒  Frontend Developer at Treeved.com
+- ⚒  Frontend Developer at SharedPro Technologies
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently working on React JS Projects
 - 💞️ I’m looking to collaborate on Projects and Community Work
