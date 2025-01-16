@@ -11,9 +11,9 @@
 
 # 💫 About Me:
 <!-- - 👋 Hi, I’m Krunal Gupta -->
-- ⚒  Frontend Developer at SharedPro Technologies
+- ⚒  Passionate Frontend Developer
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently working on React JS Projects
+- 🌱 I’m currently working on Next JS Projects
 - 💞️ I’m looking to collaborate on Projects and Community Work
 - 📫 If you want to talk with me contact me on guptakrunal02@gmail.com
 
